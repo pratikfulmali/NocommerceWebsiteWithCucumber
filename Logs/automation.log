@@ -192,3 +192,11 @@
 2023-09-03 14:07:49,555  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
 2023-09-03 14:07:52,861  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
 2023-09-03 14:07:52,981  INFO [main] nopcommerce:116 - *********Closing application ***************
+2023-09-03 14:24:23,440  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2023-09-03 14:24:23,477  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2023-09-03 14:24:37,373  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2023-09-03 14:25:06,435  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2023-09-03 14:25:08,246  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2023-09-03 14:25:25,246  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2023-09-03 14:26:01,554  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2023-09-03 14:26:03,977  INFO [main] nopcommerce:116 - *********Closing application ***************
